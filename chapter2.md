@@ -2,7 +2,7 @@
 
 ---
 
-<span style="float:right; font-size:24px;"><strong>讲师：李卫民</strong></span>
+> 讲师：李卫民
 
 * [什么是中心化？](/chapter2/什么是中心化.md)
 * [中心化有什么问题？](/chapter2/中心化有什么问题.md)

@@ -2,7 +2,7 @@
 
 ---
 
-<span style="float:right; font-size:24px;"><strong>讲师：李卫民</strong></span>
+> 讲师：李卫民
 
 ## 2008 年美国金融海啸
 
