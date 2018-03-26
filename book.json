@@ -1,0 +1,9 @@
+{
+  "title": "区块链",
+  "author": "李卫民",
+  "language": "zh-hans",
+  "plugins": [
+    "expandable-chapters-small",
+    "popup"
+  ]
+}
